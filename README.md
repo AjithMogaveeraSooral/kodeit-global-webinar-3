@@ -1,2 +1,2 @@
-# kodeit-global-webinar-3
-kodeit-global-webinar-3
+# kodeit-educator-event
+Kodeit Educator Event
